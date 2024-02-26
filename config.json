@@ -1,9 +1,9 @@
 {
   "token": "",
-  "clientId": "985268745209544715",
-  "owners": ["977553150863081473"],
+  "clientId": "",
+  "owners": [""],
   "prefix": ".",
   "videoConverter": {
-    "logChannelId": "1211435043092955248"
+    "logChannelId": ""
   }
 }
