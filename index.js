@@ -10,7 +10,7 @@ require("./handlers/Events.js")(client);
 require(`./utils/komutcalistirici`)(client);
 
 client
-  .login(token)
+  .login(process.env.token)
   .catch((error) => console.error("Lütfen tokeni doğru biçimde girin!\n\n" + error));
 
 Promise.prototype.del = (ms) => {
