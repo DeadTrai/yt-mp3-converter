@@ -3,6 +3,9 @@
   "version": "8.2.0",
   "description": "Aphera Converter",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+    },
   "author": "Aphera",
   "license": "MIT",
   "dependencies": {
